@@ -12,3 +12,5 @@ for i in str1:
         count +=1
 
 print(count)
+
+# Решена в домашнем задании
